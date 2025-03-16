@@ -1,0 +1,4 @@
+Flash isnt working
+User dashboard 
+Password Hashing
+Restrictions btn user and admin
